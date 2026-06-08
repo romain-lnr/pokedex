@@ -20,7 +20,7 @@ Favoris : étoile sur chaque Pokémon, sauvegardés en local (ils persistent apr
 # Comment lancer le projet
 
 Ouvrir le projet dans Android Studio (File > Open puis sélectionner le dossier du projet).
-Synchroniser Gradle : Aller dans <File> (Sync Project with Gradle Files) ou sur « Sync Now » si la barre apparaît.
+Synchroniser Gradle : Aller dans File >> Sync Project with Gradle Files ou sur « Sync Now » si la barre apparaît.
 Choisir un appareil : un émulateur (Android 7.0 ou plus) ou un téléphone physique en mode développeur.
 Vérifier la connexion Internet de l'appareil (l'application a besoin du réseau pour appeler l'API).
 Lancer avec le bouton ▶ (Run 'app').
